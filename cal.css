@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+background-color: rgb(15, 68, 68);
+}
+.main-caontainer{
+    width: 540px;
+    height: 665px;
+    text-align: center;
+    margin: auto;
+}
+
+.button button{
+    height: 70px;
+    width: 84px;
+}
